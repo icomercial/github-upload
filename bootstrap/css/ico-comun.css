@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-01-2018, 17:08:46
+    Author     : nalvarez
+*/
+        td.fondo_DRY1101{background: #ffffcc;}
+        td.fondo_MBY1101{background: #ffff99;}
+        td.fondo_ABD5502{background: #ffff99;}
+        td.fondo_SSC5501{background: #ff0084;}
+        td.fondo_PAY1101{background: #ccffcc;}
+        td.fondo_IPY5101{background: #ffff99;}
+        td.fondo_EPY5101{background: #ff0084;}
+        td.fondo_OPT103{background: #ccffcc;}
+        td.fondo_BPY5101{background: #ffcccc;}
+        td.fondo_INU111{background: #ccff99;}
+        td.fondo_INU311{background: #ccff99;}
+        td.fondo_INU511{background: #ccff99;}
+        td.fondo_INU311{background: #ccff99;}
+        td.fondo_ESP500{background: #ccff99;}
+        td.fondo_MAT100{background: #ffcccc;}
+        td.fondo_PLC010{background: #ffcc99;}
+        td.fondo_PLC011{background: #ffcc99;}
+        td.fondo_PLC1100{background: #ffcc99;}
+        td.fondo_SEH1501{background: #ccccff;}
+        td.fondo_SRY1141{background: #ccccff;}
+        td.fondo_FDN1501{background: #cccc99;}
+        td.fondo_VTY1111{background: #cccc99;}
+        td.fondo_INY1121{background: #99ccff;}
+        td.fondo_ICR1501{background: #99ccff;}
+        td.fondo_SRY1131{background: #ccff99;}
+        td.fondo_ISY3101{background: #99cc99;}
+        td.fondo_IDS5501{background: #99cc99;}
+        td.fondo_DEY3101{background: #ffffcc;}
+        td.fondo_PBY3101{background: #ffff99;}
+        td.fondo_DAI5501{background: #ffffcc;}
+        td.fondo_PFT5447{background: #ffff99;}
+        td.fondo_EST402{background: #ccffcc;}
+        td.fondo_FET003{background: #ffcccc;}
+        td.fondo_OFC1444707{background: #ffcc99;}
+        td.fondo_GPI7501{background: #ffffcc;}
+        td.fondo_INS7501{background: #ffff99;}
+        td.fondo_MBI7501{background: #ffcccc;}
+        td.fondo_MDC7501{background: #ffcc99;}
+        td.fondo_OIN1446102{background: #ccffcc;}
+        td.fondo_PEI120{background: #ff0;}
+        td.fondo_ASC3501{background: #ffffcc;}
+        td.fondo_ASO3501{background: #ffff99;}
+        td.fondo_RIN3501{background: #ffcccc;}
+        td.fondo_REL3501{background: #ffff99;}
+        td.fondo_OFC1444306{background: #ffcc99;}
+        td.fondo_PFT5443{background: #ffcc99;}
+        span.siglaAlumno{font-size: 12px;}
+        td.fondo_CBY2101{background-color: #ccffcc;}
+        td.fondo_DSY2101{background-color: aliceblue;}
+        td.fondo_DTY2101{background-color: orange;}
+        td.fondo_INU211{background-color: #ff0;}
+        td.fondo_INU411{background-color: #ff0;}
+        td.fondo_INU611{background-color: #ff0;}
+        td.fondo_MAT204{background-color: royalblue;}
+        td.fondo_PLC021{background-color: palegoldenrod;}        
+        td.fondo_FET102{background-color: lawngreen;}
